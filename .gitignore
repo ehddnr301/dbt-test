@@ -1,0 +1,5 @@
+.vscode
+ch_*
+__pycache__
+**/logs/*
+.user

@@ -1,0 +1,18 @@
+version: 2
+
+models:
+  - name: actor_summary
+    description: Actor summary
+    columns:
+      - name: name
+        description: Actor name
+      - name: num_movies
+        description: Number of movies
+      - name: avg_rank
+        description: Average rank
+      - name: genres
+        description: Genres
+      - name: directors
+        description: Directors
+      - name: updated_at
+        description: Updated at

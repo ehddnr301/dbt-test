@@ -1,0 +1,6 @@
+{
+    "table_name": "movies",
+    "schedule_interval": "5 * * * *",
+    "catchup":"False",
+    "start_date": "2023-10-14"
+}

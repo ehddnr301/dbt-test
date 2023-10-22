@@ -1,0 +1,12 @@
+# example profiles.yml file
+temp_clickhouse:
+  target: dev
+  outputs:
+    dev:
+      type: clickhouse
+      schema: imdb_dbt
+      host: localhost
+      port: 8123
+      user: default
+      password: ''
+      secure: False
